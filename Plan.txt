@@ -1,0 +1,7 @@
+Things to do:
+1. Robert's Movement
+2. Designing Bots
+3. Bots Rendering
+4. Draw Robert Rect
+5. Villian Design
+6. Bots Movement
